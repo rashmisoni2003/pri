@@ -87,7 +87,12 @@ def stats1():
 
     # Create a horizontal bar chart using Seaborn
     plt.figure(figsize=(14, 6))
-    colors = ['#66b3ff', '#99ff99', '#ff9999', '#ffcc99', '#ffb3e6', '#b3b3b3', '#ffcc00']
+    colors = ["#FF5733", "#FFC300", "#36D7B7", "#3498DB", "#9B59B6", "#E74C3C", 
+    "#2ECC71", "#1ABC9C", "#F39C12", "#E67E22", "#27AE60", "#2980B9", 
+    "#8E44AD", "#D35400", "#16A085", "#C0392B", "#2C3E50", "#F39C12", 
+    "#D35400", "#8E44AD", "#2980B9", "#3498DB", "#1ABC9C", "#E74C3C", 
+    "#27AE60", "#FF5733", "#FFC300", "#36D7B7", "#9B59B6", "#2ECC71", 
+    "#E67E22", "#16A085", "#C0392B", "#2C3E50"]
     sns.barplot(x=data[category_column], y=data['DISTRICT '], palette=colors)
     plt.xlabel('Severe Mental Disorder Cases')
     plt.ylabel('')
