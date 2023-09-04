@@ -1,13 +1,11 @@
-![image](https://user-images.githubusercontent.com/52382282/194696318-37b0b64c-a96f-44c1-bd26-8bfe439a2bdd.png)
+![image](https://github.com/rashmisoni2003/pri/assets/141663998/a1f0b88a-a994-4c8c-9620-214d2a41580e)
 
 # IBM HackChallenge - 2023
 - Team Name: Bots For Your Dots
 - Project Title: SBSPS-Challenge-10026-LISTNER---AI-based-Life-Assistance-Chatbot-Integration-for-public-welfare
 
-
-![image](https://github.com/rashmisoni2003/pri/assets/141663998/a1f0b88a-a994-4c8c-9620-214d2a41580e)
-
-<h1 align="center">LISTNER---AI-based-Life-Assistance-Chatbot-Integration-for-public-welfare</h1>
+<h1 align="center">- ![image](https://github.com/rashmisoni2003/pri/assets/141663998/5b3d1dda-2f5c-4f93-95e0-b37ce3fb6526)
+ -LISTNER---AI-based-Life-Assistance-Chatbot-Integration-for-public-welfare</h1>
 
 <br>
 
